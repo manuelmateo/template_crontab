@@ -1,0 +1,3 @@
+MAILTO=""
+
+50 * * * * /home/mmateo/cs312/update.sh
